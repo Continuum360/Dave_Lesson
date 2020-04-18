@@ -1,3 +1,7 @@
 daves commits over here
 This line was added throught the web interface.  To a file originally created on the branch created
 by Dave.
+The previous 2 lines were committed directly to the master branch.
+These will be commited to a new branch.  Which i will then open on Kelly2
+Add another line to alter the current branch further.
+This last line will be committed to another new brach.
