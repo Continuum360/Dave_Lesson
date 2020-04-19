@@ -6,5 +6,7 @@ A simple guess for the first step is, not surprisingly to install git.  I think 
 <br>
 Now, i think it can happen automatically if I supply ssh public key.
 <br>
-Markup?
+Markdown?
 "#" Was just for the title - duh
+
+OK, so these changes are from VSC on Ubuntu - first changes were all lost i believe because I changed master after downloading/cloneing the project locally.  Probably can do that somehow, but at this point it was easier to clean up and start again.  I don't think VSC was syncing here yet any way, but now it probably is because I got that question about checking periodically.
