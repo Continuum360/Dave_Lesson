@@ -1,8 +1,14 @@
-import tensorflow as tf
+from IPython.display import Image
+Image(url="https://www.cntk.ai/jup/cancer_data_plot.jpg", width=400, height=400)
 
-# first, create a TensorFlow constant
-const = tf.constant(2.0, name="const")
-    
-# create TensorFlow variables
-b = tf.Variable(2.0, name='b')
-c = tf.Variable(1.0, name='c')
+Image(url= "https://www.cntk.ai/jup/cancer_classify_plot.jpg", width=400, height=400)
+
+# Import the relevant components
+from __future__ import print_function
+import numpy as np
+import sys
+import os
+
+import cntk as C
+
+
